@@ -1,0 +1,30 @@
+th{
+    
+    font-family: Helvetica, sans-serif;
+    color:white;
+    background-color:darkorchid;
+    font-weight: 800;
+    
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    border-color: blueviolet;
+
+    
+    
+}
+tbody{
+    
+    color:black;
+    font-family: cursive;
+    
+    
+    
+}
+h1{
+    font-family: Helvetica,sans-serif;
+    color:darkorchid;
+    padding-left: 50px;
+}
